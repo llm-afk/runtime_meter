@@ -1,0 +1,14 @@
+/build/
+/out/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+CTestTestfile.cmake
+Makefile
+*.o
+*.a
+*.elf
+*.bin
+*.hex
+.vscode/
+.idea/
